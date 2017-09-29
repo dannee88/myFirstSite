@@ -1,0 +1,19 @@
+h1 {
+	color: purple;
+	font-size: 100px;
+}
+
+h1 {
+	color: green;
+}
+
+.color {
+	color:yellow;
+}
+
+h1{
+	color:pink;
+}
+#newColor {
+	color: blue;
+}
